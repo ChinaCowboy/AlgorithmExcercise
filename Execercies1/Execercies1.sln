@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Execercies1", "Execercies1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeVisitExcercise", "..\TreeVisitExcercise\TreeVisitExcercise.csproj", "{0B248C3E-30C8-4BAA-BC27-859F75C25BAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicate", "..\RemoveDuplicate\RemoveDuplicate.csproj", "{4E362292-46C7-4BD7-BE8D-B73EAA1320BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B248C3E-30C8-4BAA-BC27-859F75C25BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B248C3E-30C8-4BAA-BC27-859F75C25BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B248C3E-30C8-4BAA-BC27-859F75C25BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E362292-46C7-4BD7-BE8D-B73EAA1320BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E362292-46C7-4BD7-BE8D-B73EAA1320BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E362292-46C7-4BD7-BE8D-B73EAA1320BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E362292-46C7-4BD7-BE8D-B73EAA1320BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
