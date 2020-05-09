@@ -9,6 +9,7 @@ namespace GraphFriends
             Console.WriteLine("Hello World!");
             char[][] friends = { "YYNN".ToCharArray(), "YYYN".ToCharArray(), "NYYN".ToCharArray(), "NNNY".ToCharArray() };
             Console.WriteLine(getFriendCircles(friends));
+            Console.ReadLine();
 
         }
 
